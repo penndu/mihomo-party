@@ -1,6 +1,8 @@
-<h1 align="center">
+<h1 align="center" style='font-size: 28px; line-height: 36px'>
   <img src="resources/icon.png" alt="Mihomo Party" width="200">
-  <br>Mihomo Party<br>
+  </br>
+  <img style='height: 24px' src='./resources/icon-white.svg#gh-dark-mode-only'><img style='height: 28px; margin-bottom: -5px; margin-right: 2px' src='./resources/icon-white.svg#gh-light-mode-only'>ihomo Party
+
 </h1>
 
 <h3 align="center">Another Mihomo GUI.</h3>
